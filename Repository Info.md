@@ -18,9 +18,9 @@ Go to ./src/App.js file inside your project.
 # Step 2:
 Import the following components of react-router-dom inside this js file.
 
-# BrowserRouter         
-# Route 
-# Routes
+1) BrowserRouter         
+2) Route 
+3) Routes
 import {
   BrowserRouter,
   Routes, //replaces "Switch" used till v5
